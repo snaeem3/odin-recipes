@@ -2,6 +2,7 @@
 This project will showcase a basic recipe website.
 The skills involved with this project:
 - Creation of HTML pages
-- HTML links to other HTML pages
-- Creation of lists in HTML
+- Use of headings and paragraphs
+- Linking of HTML pages
+- Creation of ordered and unordered lists in HTML
 - Images in HTML
